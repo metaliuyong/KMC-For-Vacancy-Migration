@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KMC_For_Vacancy_Migration"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMC_For_Vacancy_Migration">
+				<Option output="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/KMC_For_Vacancy_Migration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMC_For_Vacancy_Migration"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMC_For_Vacancy_Migration/fast">
+				<Option output="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/KMC_For_Vacancy_Migration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMC_For_Vacancy_Migration/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMC_SHARED_LIBRARY">
+				<Option output="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/libKMC_SHARED_LIBRARY.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMC_SHARED_LIBRARY"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KMC_SHARED_LIBRARY/fast">
+				<Option output="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/libKMC_SHARED_LIBRARY.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 KMC_SHARED_LIBRARY/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Coord.cpp">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Coord.h">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Event.cpp">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Event.h">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/LKMCRun.cpp">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/LKMCRun.h">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Object.cpp">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Object.h">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Vector2d.cpp">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/Vector2d.h">
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/src/main.cpp">
+			<Option target="KMC_For_Vacancy_Migration"/>
+			<Option target="KMC_SHARED_LIBRARY"/>
+		</Unit>
+		<Unit filename="/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

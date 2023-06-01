@@ -1,0 +1,39 @@
+# Output Control
+dump_file=frames.xyz
+dump_frequency=1
+statistic_file=statistics.txt
+statistic_frequency=1
+
+# System Settings
+reaction_prefactor=10.0e12
+temperature=300.0
+max_time=1000000000000.0
+max_steps=100
+max_interval=86400.0
+max_unchanged_time=72000000.0
+lx_max=500
+ly_max=500
+
+# Graphene Lattice Settings
+axis_a.x=2.46044
+axis_a.y=0.0
+axis_b.x=-1.23022
+axis_b.y=2.13080
+bias.x=0.66667
+bias.y=0.33333
+
+# Initialization
+monovacancy.init_proportion=0.05
+
+# Energy Barriers
+E[0][0]=1.1
+E[0][1]=1.1
+E[0][2]=10.0
+E[1][0]=10.0
+E[1][1]=10.0
+E[1][2]=10.0
+E[2][0]=10.0
+E[2][1]=10.0
+E[2][2]=10.0
+
+

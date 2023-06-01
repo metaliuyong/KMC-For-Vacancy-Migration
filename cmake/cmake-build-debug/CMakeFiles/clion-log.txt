@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Codes/KMC-For-Vacancy-Migration/cmake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug

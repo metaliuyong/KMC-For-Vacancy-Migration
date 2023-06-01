@@ -1,0 +1,8 @@
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/install/strip.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/install/local.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/install.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/list_install_components.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/KMC_For_Vacancy_Migration.dir
+/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug/CMakeFiles/KMC_SHARED_LIBRARY.dir

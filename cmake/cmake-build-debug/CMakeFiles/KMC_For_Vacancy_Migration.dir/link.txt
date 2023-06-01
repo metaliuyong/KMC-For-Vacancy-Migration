@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/KMC_For_Vacancy_Migration.dir/mnt/d/Codes/KMC-For-Vacancy-Migration/src/main.cpp.o  -o KMC_For_Vacancy_Migration  -Wl,-rpath,/mnt/d/Codes/KMC-For-Vacancy-Migration/cmake/cmake-build-debug: libKMC_SHARED_LIBRARY.so 
